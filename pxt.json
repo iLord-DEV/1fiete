@@ -1,0 +1,21 @@
+{
+    "name": "1fiete",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "MotionKit": "github:tinysuperlab/motionkit#9296b0c054be8f694368e7d52e7a9f2397ceb7b9"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}

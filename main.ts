@@ -1,0 +1,6 @@
+MotionKit.driveForwards(80)
+MotionKit.driveBackwards(40)
+MotionKit.turnRight(60)
+MotionKit.turnLeft(40)
+MotionKit.driveForwards(30)
+MotionKit.driveBackwards(71)
